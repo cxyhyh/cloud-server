@@ -1,10 +1,10 @@
-package com.zhxd.mp1;
+package com.zhxd.cloudServer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Mp1ApplicationTests {
+class CloudServerApplicationTests {
 
     @Test
     void contextLoads() {

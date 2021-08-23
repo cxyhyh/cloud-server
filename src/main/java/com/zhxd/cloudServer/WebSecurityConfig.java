@@ -1,4 +1,4 @@
-package com.zhxd.mp1;
+package com.zhxd.cloudServer;
 
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;

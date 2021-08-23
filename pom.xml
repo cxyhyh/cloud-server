@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.zhxd</groupId>
-    <artifactId>mp1</artifactId>
+    <artifactId>cloud-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mp1</name>
     <description>eurake学习</description>
