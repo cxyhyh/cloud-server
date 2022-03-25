@@ -20,7 +20,7 @@ spring:
 
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/campusrecruitment
+    url: jdbc:mysql://121.43.158.100:3306/hyh_project
     username: root
     password: 123456
 
