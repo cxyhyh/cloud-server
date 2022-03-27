@@ -11,7 +11,7 @@
     <groupId>com.zhxd</groupId>
     <artifactId>cloud-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mp1</name>
+    <name>cloud-server</name>
     <description>eurake学习</description>
     <properties>
         <java.version>1.8</java.version>
